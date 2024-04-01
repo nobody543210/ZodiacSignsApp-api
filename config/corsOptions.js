@@ -1,5 +1,6 @@
 const allowedOrigins = [
-    'https://zodiacsignsapp.onrender.com'
+    'https://zodiacsignsapp.onrender.com';
+    'http://localhost:3000/'
 ];
 
 const corsOptions = {
